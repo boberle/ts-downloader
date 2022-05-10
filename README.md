@@ -1,4 +1,4 @@
-# TS Video Downloader
+# Transport Stream Video Downloader
 
 ## Introduction
 
